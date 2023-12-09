@@ -14,7 +14,7 @@ This repository contains code for a machine learning project focused on breast c
 Breast cancer is a significant health concern, and early detection plays a crucial role in improving patient outcomes. This project aims to contribute to the field of medical diagnostics by employing machine learning algorithms to classify breast cancer data by given variables.
 
 ## Dataset
-The dataset used in this project is sourced from data.https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data. It includes various features related to breast cancer patients, such as radius mean, texture mean, and other relevant medical indicators. The dataset is split into training and testing sets to evaluate the performance of the machine learning algorithms.
+The dataset used in this project is sourced from https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data. It includes various features related to breast cancer patients, such as radius mean, texture mean, and other relevant medical indicators. The dataset is split into training and testing sets to evaluate the performance of the machine learning algorithms.
 
 ## Algorithms
 The project focuses on two supervised machine learning algorithms:
