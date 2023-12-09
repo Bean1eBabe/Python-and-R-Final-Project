@@ -25,6 +25,9 @@ A probabilistic algorithm based on Bayes' theorem, assuming independence between
 ### Decision Tree:
 A tree-like model where decisions are made at each node based on feature values. Decision trees are interpretable and can capture non-linear relationships in the data.
 
+#### Variability
+Step 4 in the code separates the testing and training sections of the code based on a given random number. The "random_state" variable can be any integer and changes the outcome of the training, while being reproducible. 
+
 ## Usage
 To run the project, follow these steps:
 Clone/download the repository.
