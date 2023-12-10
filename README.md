@@ -35,6 +35,11 @@ Pull the ipynb into Google Colaboratory
 Insert the given dataset into an accessible folder on your Google Drive
 Change this given line: "raw_data = pd.read_csv('/content/drive/My Drive/HI1020/breast-cancer.csv')" to refelct the change.
 
+### Experimental Validations/Results
+
+
+# Discussion/Conclusion
+
 ## Limitations
 While the project aims to contribute to breast cancer classification, it is essential to acknowledge its limitations:
 
