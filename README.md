@@ -36,7 +36,7 @@ Insert the given dataset into an accessible folder on your Google Drive
 Change this given line: "raw_data = pd.read_csv('/content/drive/My Drive/HI1020/breast-cancer.csv')" to refelct the change.
 
 ### Experimental Validations/Results
-
+The results can give variable accuracy dependent on the number injected into the code. Different input numbers resulted in certain numbers making Decison Tree more accurate, while other numbers resulted in a higher Naive Bayes accuracy. There was never complete consistency because of the random input number, but overall accuracy was 90% or higher. Something to note is that the higher the input number, the lower the accuracy, precision, and recall, while lower input numbers resulted in higher results. 
 
 # Discussion/Conclusion
 
