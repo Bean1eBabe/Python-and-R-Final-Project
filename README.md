@@ -43,14 +43,8 @@ The results can give variable accuracy dependent on the number injected into the
 
 # Discussion/Conclusion
 
-## Limitations
-While the project aims to contribute to breast cancer classification, it is essential to acknowledge its limitations:
-
-### Data Quality:
-The performance of the models heavily relies on the quality of the input data. Inaccuracies or biases in the dataset can impact the effectiveness of the algorithms.
-
-### Feature Selection:
-The choice of features in the dataset may not capture all relevant information for accurate classification. Further feature engineering and selection may be necessary.
+## Discussion
+To summarize, our project was focused on breast cancer research data, and used Naive Bayes and Decision Tree learning modules to classify breast cancer data. Both Naive Bayes and Decision Tree supervised machine learning algorithms contribute to higher accuracy when working together in the code. That being said, there were still limitations to the data, models, and results. The performance of the models relies on the quality of the input data, so innaccuracies or biases in the dataset can impact the algorithim's affectivness. Addtionally, the choice of features in the dataset may not capture all relevant information for accurate classification. This could result in further feature engingeering and selection being necessary.
 
 ### Model Complexity:
 The selected algorithms have their own assumptions and limitations. In more complex scenarios, more sophisticated models may be required.
