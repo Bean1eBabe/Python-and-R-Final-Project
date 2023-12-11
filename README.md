@@ -6,6 +6,7 @@ This repository contains code for a machine learning project focused on breast c
 ## Note
 The project was completed in google colab: in the code, Rishika Sau completed the data visualizations portion (or Step 3) in the project.  
 Campbell Schweninger contributed to the ReadMe section, focusing on Experimental Validations/Results & the Discussion/Conclusion.
+Oliver Rinehart finished the other steps of the code and formatted the Readme and Github repository.
 
 ## Table of Contents
 ### Introduction
