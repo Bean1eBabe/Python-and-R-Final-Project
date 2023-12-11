@@ -4,7 +4,7 @@
 This repository contains code for a machine learning project focused on breast cancer classification. The project utilizes supervised machine learning algorithms, specifically Naive Bayes and Decision Tree, to train and test models for the classification of breast cancer 
 
 ## Note
-The project was completed in google colab: in the code, I (Rishika Sau) completed the data visualizations portion (or Step 3) in the project.  
+The project was completed in google colab: in the code, Rishika Sau completed the data visualizations portion (or Step 3) in the project.  
 
 ## Table of Contents
 ### Introduction
